@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quibusdam-consequatur-blanditiis-quam",
-  "version": "2.4.47",
+  "version": "2.4.48",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -388,5 +388,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quibusdam-consequatur-blanditiis-quam/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
